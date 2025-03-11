@@ -19,6 +19,6 @@ The magic lies in the RAG file. It’s your asset—the soul of your idea. The f
 We used MF4 to create **SPMP** (Standard PHP-MVC-Principles), a lightweight PHP framework. The [`SPMP-RAG.md`](./examples/spmp/SPMP-RAG.md) defined it, and Grok 3 generated a shell script and schema in [`output/`](./examples/spmp/output/). Lost the files? The RAG rebuilds them. That’s MF4’s strength.
 
 ## Get Started
-1. **Clone**: `git clone https://github.com/[YourUsername]/MF4-SPIC.git`
+1. **Clone**: `git clone https://github.com/terrylan/MF4.git`
 2. **Explore**: Open [`MF4-SPIC-RAG.md`](./MF4-SPIC-RAG.md) to see the process.
 3. **Prompt**: Use an AI (e.g., Grok 3 by xAI) with a RAG: "Generate from this."
