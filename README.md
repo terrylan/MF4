@@ -1,5 +1,7 @@
 # MF4:SPIC - Meta Framework For Framework: a Standard Process for Idea Creation
 
+**Tagline**: "Define. Generate. Iterate. Create Anything with AI."
+
 Welcome to **MF4:SPIC**—a groundbreaking meta-framework that redefines creation. Forget downloading rigid codebases. With MF4, you craft a vision, hand it to an AI, and watch a custom system emerge—then refine it to perfection. It’s not just a tool; it’s a revolution in how we build, powered by human-AI synergy.
 
 ## What is MF4:SPIC?
@@ -21,4 +23,20 @@ We used MF4 to create **SPMP** (Standard PHP-MVC-Principles), a lightweight PHP 
 ## Get Started
 1. **Clone**: `git clone https://github.com/terrylan/MF4.git`
 2. **Explore**: Open [`MF4-SPIC-RAG.md`](./MF4-SPIC-RAG.md) to see the process.
-3. **Prompt**: Use an AI (e.g., Grok 3 by xAI) with a RAG: "Generate from this."
+3. **Prompt**: Use an AI like Grok 3 (xAI) with a RAG: "Generate from this." (Other AIs may work if they handle structured prompts.)
+4. **Iterate**: Tweak and repeat—your system takes shape.
+
+## License
+MF4:SPIC is released under the [MF4:SPIC License (Version 1741713600 (2025))](https://github.com/[YourUsername]/MF4-SPIC-License), a custom, timestamp-versioned license crafted with MF4 itself. Check it out for details on use, recursion, and forking.
+
+## Contribute
+Join the revolution! Add examples, refine the RAG, or suggest ideas:
+- Fork and submit PRs with new RAGs or outputs.
+- Open issues to brainstorm.
+- See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for guidance.
+
+## The Future is Yours
+MF4:SPIC isn’t static—it’s a living process. Define your next big idea, let AI spark it, and iterate until it shines. Star this repo, fork it, or just experiment. The meta-framework era starts now—where will you take it?
+
+---
+Born from MF4:SPIC at Unix Timestamp 1741713600 (2025) by terrylan and Grok 3 (xAI).
