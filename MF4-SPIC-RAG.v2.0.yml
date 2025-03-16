@@ -1,0 +1,72 @@
+# MF4:SPIC (Meta Framework For Framework: a Standard Process for Idea Creation)
+
+metadata:
+  title: "MF4:SPIC"
+  version: "2.0"
+  author: "Terrylan Manalansan"
+  last_updated: "2025-03-16"
+  tags:
+    - "meta-framework"
+    - "AI-driven"
+    - "process"
+    - "idea-creation"
+  description: "A standard process for idea creation leveraging AI, now with advanced scalability, collaboration, and consolidation features."
+
+principles:
+  - name: "Clarity"
+    description: "Use structured documents (e.g., headings, bullets) for AI/human interpretation."
+  - name: "Recursion"
+    description: "Build frameworks within frameworks for complex tasks."
+  - name: "AI-Driven"
+    description: "Leverage AI to draft outputs (e.g., text, plans) with specified tools."
+  - name: "Iteration"
+    description: "Refine until Success Metrics are met with structured feedback."
+  - name: "Universality"
+    description: "Applies to any task (Creative, Analytical, etc.) with domain mapping."
+  - name: "Flexibility"
+    description: "Adaptable to any domain, from software to policies, with scalability."
+  - name: "Collaboration"
+    description: "Combines human insight with AI generation via real-time tools."
+  - name: "Efficiency"
+    description: "Accelerates creation by leveraging AI’s speed and parallel processing."
+  - name: "Consolidation"  # From future_enhancements
+    description: "Merges outputs into unified frameworks or deliverables."
+
+process:
+  - step: "Define"
+    substeps:
+      - name: "Principles"
+        description: "Guiding rules (e.g., 'Simple, affordable design') with versioning support."  # Updated for Versioning Support
+      - name: "Instructions"
+        description: "How to execute (e.g., 'AI: Draft a 500-word plan with Grok')."  # Updated for AI Tool Specification
+      - name: "Parameters"
+        description: "Scope/goals (e.g., 'Budget: $100, Time: 1 week') with metric templates."  # Updated for Success Metric Templates
+      - name: "Scalability"  # Added from Scalability Framework
+        description: "Guidelines for scaling from small tasks to enterprise projects."
+  - step: "AI Generate"
+    description: "AI produces drafts in parallel based on inputs, validated automatically."  # Updated for Parallel Processing and Automated Validation
+    example_prompt: "Generate X using Y with Grok and web search."  # Updated for AI Tool Specification
+    tools:
+      - "Grok"  # From AI Tool Specification
+      - "Web Search"
+      - "Content Analysis"
+  - step: "Iterate"
+    description: "Refine output with feedback loop until metrics achieved, outputting YAML per iteration."  # Updated for Feedback Integration and Automated YAML Consolidation Output
+    collaboration_tools:  # Added from Collaboration Tools
+      - "Shared Prompts"
+      - "Annotations"
+    output_format: "YAML"  # From Automated YAML Consolidation Output
+  - step: "Validate"  # Added from Automated Validation
+    description: "AI checks outputs against parameters before finalization."
+
+recommendations:
+  - name: "Document Design"
+    description: "Use headings, bullets for clarity."
+  - name: "Recursion"
+    description: "If task complexity >5 steps, define sub-frameworks (Principles, Instructions, Parameters)."
+  - name: "Success Metrics"
+    description: "Define per task using templates (e.g., 'Creative: 80% approval; Technical: Error-free')."  # Updated for Success Metric Templates
+  - name: "Exit"
+    description: "Stop when metrics met and no new feedback after 2 iterations."
+  - name: "AI Tools"
+    description: "Use specified tools (e.g., Grok, web search) for richer outputs with cross-domain mapping."  # Updated for AI Tool Specification and Cross-Domain Mapping
