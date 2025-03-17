@@ -1,0 +1,274 @@
+# MF4:SPIC (Meta Framework For Framework: a Standard Process for Idea Creation)
+
+metadata:
+  title: "MF4:SPIC"
+  version: "4.2"
+  author: "Terrylan Manalansan"
+  last_updated: "2025-03-17"
+  tags:
+    - "meta-framework"
+    - "AI-driven"
+    - "process"
+    - "idea-creation"
+    - "mathematical-problem-solving"
+    - "embodied-cognition"
+    - "temporal-intelligence"
+    - "emergent-systems"
+    - "biomimicry"
+    - "cognitive-bias-mitigation"
+    - "semantic-network-mapping"
+    - "emotional-intelligence"
+    - "fractal-design"
+    - "narrative-construction"
+    - "quantum-cognition"
+  description: "A standard process for idea creation leveraging AI, now enhanced with scalability, collaboration, consolidation, mathematical problem-solving, and 10 additional modules for diverse ideation approaches."
+
+principles:
+  - name: "Clarity"
+    description: "Use structured documents (e.g., headings, bullets) for AI/human interpretation."
+  - name: "Recursion"
+    description: "Build frameworks within frameworks for complex tasks, including mathematical substructures and emergent systems."
+  - name: "AI-Driven"
+    description: "Leverage AI to draft outputs (e.g., text, plans, conjectures) with specified tools and cognitive models."
+  - name: "Iteration"
+    description: "Refine until Success Metrics are met with structured feedback, proof strategies, and bias mitigation."
+  - name: "Universality"
+    description: "Applies to any task (Creative, Analytical, Mathematical, Systems) with domain mapping and biomimicry."
+  - name: "Flexibility"
+    description: "Adaptable to any domain, from software to policies to mathematics, with scalability and fractal design."
+  - name: "Collaboration"
+    description: "Combines human insight with AI generation via real-time tools, intuition capture, and emotional intelligence."
+  - name: "Efficiency"
+    description: "Accelerates creation by leveraging AI’s speed, parallel processing, pattern analysis, and temporal insights."
+  - name: "Consolidation"
+    description: "Merges outputs into unified frameworks or deliverables, including formalized proofs and narrative structures."
+  - name: "Quantum-Ready Ideation"
+    description: "Supports quantum-inspired thinking for handling uncertainty and non-classical connections."
+
+process:
+  - step: "Define"
+    substeps:
+      - name: "Principles"
+        description: "Guiding rules (e.g., 'Simple, affordable design') with versioning support, module selection, and bias mitigation."
+      - name: "Instructions"
+        description: "How to execute (e.g., 'AI: Draft a 500-word plan with Grok' or 'Generate a conjecture with quantum cognition')."
+      - name: "Parameters"
+        description: "Scope/goals (e.g., 'Budget: $100, Time: 1 week') with metric templates, problem classification, and temporal sensitivity."
+      - name: "Scalability"
+        description: "Guidelines for scaling from small tasks to enterprise projects or complex proofs, with fractal design principles."
+  - step: "AI Generate"
+    description: "AI produces drafts in parallel based on inputs, validated automatically, with cross-domain metaphors, intuition visuals, embodied cognition, and emergent systems thinking."
+    example_prompt: "Generate X using Y with Grok, web search, quantum detection, and biomimicry insights."
+    tools:
+      - "Grok"
+      - "Web Search"
+      - "Content Analysis"
+      - "Quantum Pattern Detection"
+      - "Biomimicry Database"
+  - step: "Iterate"
+    description: "Refine output with feedback loop, historical patterns, conjecture testing, cognitive bias checks, and narrative coherence until metrics achieved, outputting YAML per iteration."
+    collaboration_tools:
+      - "Shared Prompts"
+      - "Annotations"
+      - "Intuition Capture (verbal, sketches, gestures)"
+      - "Emotional Impact Assessment"
+    output_format: "YAML"
+  - step: "Validate"
+    description: "AI checks outputs against parameters, ensuring mathematical rigor, novel insights, emotional resonance, and fractal elegance before finalization."
+
+modules:
+  - name: "Mathematical Problem-Solving Module"
+    description: "Extends MF4 for complex mathematical problems via cross-domain metaphors, intuition amplification, historical analysis, and conjecture generation."
+    # (Assuming existing components remain unchanged from v2.1)
+  - name: "Embodied Cognition Module"
+    description: "Integrates physical and sensory dimensions into the ideation process, leveraging research showing that cognition is influenced by bodily experiences."
+    components:
+      - name: "Sensory Translation Engine"
+        description: "Converts abstract concepts into multi-sensory representations."
+      - name: "Movement-Based Ideation"
+        description: "Uses motion data to generate alternative perspectives."
+      - name: "Physical Prototype Simulation"
+        description: "Virtual testing of physical concepts before production."
+      - name: "Haptic Feedback Integration"
+        description: "Incorporates touch and physical interaction into digital ideation."
+    integration:
+      generate_phase:
+        - "Enhances 'Generate' phase with embodied thinking approaches."
+      validate_phase:
+        - "Expands validation through physical simulation."
+      cross_disciplinary_insights:
+        - "Adds sensory dimensions to cross-disciplinary insights."
+  - name: "Temporal Intelligence Module"
+    description: "Adds sophisticated time-based analysis to the framework, allowing for better forecasting and trend analysis."
+    components:
+      - name: "Chronological Pattern Recognition"
+        description: "Identifies cyclical patterns across historical data."
+      - name: "Future Scenario Generator"
+        description: "Creates multiple possible future states based on current trends."
+      - name: "Temporal Sensitivity Analysis"
+        description: "Measures how ideas might evolve or become obsolete over time."
+      - name: "Cross-Era Innovation Transfer"
+        description: "Identifies historical solutions applicable to modern problems."
+    integration:
+      validate_phase:
+        - "Enhances validation with temporal resilience metrics."
+      iterate_phase:
+        - "Adds time-based dimensions to the iteration process."
+      finalize_phase:
+        - "Provides forecasting capabilities to final recommendations."
+  - name: "Emergent Systems Module"
+    description: "Focuses on complex systems thinking, helping users understand how simple components interact to create unexpected behaviors."
+    components:
+      - name: "Agent-Based Modeling Engine"
+        description: "Simulates interactions between system components."
+      - name: "Emergence Pattern Library"
+        description: "Catalogs known patterns of emergence across disciplines."
+      - name: "Self-Organization Analytics"
+        description: "Analyzes how ordered structures arise from seemingly chaotic interactions."
+      - name: "System Boundary Explorer"
+        description: "Identifies critical thresholds where system behavior fundamentally changes."
+    integration:
+      generate_phase:
+        - "Enhances 'Generate' phase with complex systems thinking."
+      validate_phase:
+        - "Provides new validation metrics based on system stability and resilience."
+      cross_disciplinary_insights:
+        - "Enhances cross-disciplinary insights through pattern recognition."
+  - name: "Biomimicry Integration Module"
+    description: "Systematically applies biological principles and models to the ideation process."
+    components:
+      - name: "Natural Systems Database"
+        description: "Comprehensive repository of biological solutions and mechanisms."
+      - name: "Bio-Function Translator"
+        description: "Maps human challenges to biological functions."
+      - name: "Evolutionary Strategy Simulator"
+        description: "Applies evolutionary algorithms to ideation."
+      - name: "Scale-Shifting Analysis"
+        description: "Transfers solutions across different scales (nano to macro)."
+    integration:
+      cross_disciplinary_insights:
+        - "Expands cross-disciplinary insights with biological perspectives."
+      validate_phase:
+        - "Provides nature-tested validation metrics."
+      sustainability:
+        - "Enhances sustainability aspects of the framework."
+  - name: "Cognitive Bias Mitigation Module"
+    description: "Actively identifies and counteracts cognitive biases that might affect the ideation process."
+    components:
+      - name: "Bias Detection Algorithm"
+        description: "Identifies potential cognitive biases in proposed ideas."
+      - name: "Counterfactual Generator"
+        description: "Creates alternative perspectives to challenge assumptions."
+      - name: "Decision Debiasing Tools"
+        description: "Structured methods to counteract specific biases."
+      - name: "Diversity Optimizer"
+        description: "Ensures representation of multiple cognitive styles and perspectives."
+    integration:
+      validate_phase:
+        - "Enhances validation with bias-checking mechanisms."
+      iterate_phase:
+        - "Improves the quality of iteration through perspective diversity."
+      ethics:
+        - "Strengthens ethical dimensions of the framework."
+  - name: "Semantic Network Mapping Module"
+    description: "Creates and analyzes complex networks of meaning and association between concepts."
+    components:
+      - name: "Concept Relationship Analyzer"
+        description: "Maps connections between ideas across domains."
+      - name: "Semantic Distance Calculator"
+        description: "Identifies conceptual proximity or remoteness."
+      - name: "Association Path Finder"
+        description: "Discovers non-obvious connections between distant concepts."
+      - name: "Network Centrality Analyzer"
+        description: "Identifies key concepts with high connectivity."
+    integration:
+      generate_phase:
+        - "Enhances 'Generate' phase with association-based ideation."
+      validate_phase:
+        - "Provides new metrics for evaluating idea connectedness."
+      cross_disciplinary_insights:
+        - "Supports cross-disciplinary insights through conceptual bridging."
+  - name: "Emotional Intelligence Module"
+    description: "Incorporates affective dimensions into the ideation and evaluation process."
+    components:
+      - name: "Sentiment Analysis Engine"
+        description: "Evaluates emotional responses to concepts."
+      - name: "Emotional Impact Predictor"
+        description: "Forecasts how ideas might affect different stakeholders."
+      - name: "Affective Design Principles"
+        description: "Guidelines for creating emotionally resonant solutions."
+      - name: "Motivation Alignment Tools"
+        description: "Ensures solutions connect with human motivational drivers."
+    integration:
+      validate_phase:
+        - "Enhances validation with emotional impact assessment."
+      iterate_phase:
+        - "Adds human-centered dimensions to the iteration process."
+      adoption:
+        - "Improves adoption potential of final recommendations."
+  - name: "Fractal Design Module"
+    description: "Applies principles of self-similarity and scale-independence to ideation."
+    components:
+      - name: "Scale-Invariant Pattern Detector"
+        description: "Identifies patterns that work across different scales."
+      - name: "Fractal Complexity Analyzer"
+        description: "Measures and optimizes complexity in solutions."
+      - name: "Self-Similar Structure Generator"
+        description: "Creates nested designs with consistent principles."
+      - name: "Dimension Scaling Tool"
+        description: "Translates concepts between different scalar dimensions."
+    integration:
+      generate_phase:
+        - "Enhances 'Generate' phase with fractal thinking approaches."
+      validate_phase:
+        - "Provides new metrics for evaluating solution elegance."
+      synthesis:
+        - "Supports the 'Innovative Synthesis' principle."
+  - name: "Narrative Construction Module"
+    description: "Leverages the power of storytelling and narrative structures in the ideation process."
+    components:
+      - name: "Story Arc Generator"
+        description: "Creates narrative frameworks for complex ideas."
+      - name: "Character Perspective Tool"
+        description: "Views problems from different stakeholder viewpoints."
+      - name: "Narrative Coherence Checker"
+        description: "Ensures logical flow and consistency."
+      - name: "Metaphor Library"
+        description: "Repository of powerful storytelling metaphors across cultures."
+    integration:
+      communication:
+        - "Enhances communication of complex ideas."
+      validate_phase:
+        - "Provides narrative-based validation metrics."
+      engagement:
+        - "Supports human engagement with abstract concepts."
+  - name: "Quantum Cognition Module"
+    description: "Applies quantum principles to human decision-making and thought processes."
+    components:
+      - name: "Superposition Thinking Engine"
+        description: "Maintains multiple contradictory ideas simultaneously."
+      - name: "Entanglement Mapper"
+        description: "Identifies non-classical connections between concepts."
+      - name: "Interference Pattern Analyzer"
+        description: "Studies how ideas interact constructively or destructively."
+      - name: "Quantum Probability Calculator"
+        description: "Models decision-making using quantum probability."
+    integration:
+      quantum_ready:
+        - "Extends the 'Quantum-Ready Ideation' principle."
+      generate_phase:
+        - "Provides new approaches to the 'Generate' phase."
+      uncertainty:
+        - "Supports handling of uncertainty and ambiguity."
+
+recommendations:
+  - name: "Document Design"
+    description: "Use headings, bullets for clarity."
+  - name: "Recursion"
+    description: "If task complexity >5 steps, define sub-frameworks (Principles, Instructions, Parameters)."
+  - name: "Success Metrics"
+    description: "Define per task using templates (e.g., 'Creative: 80% approval; Technical: Error-free; Mathematical: Proof completeness; Emotional: Stakeholder resonance')."
+  - name: "Exit"
+    description: "Stop when metrics met and no new feedback after 2 iterations."
+  - name: "AI Tools"
+    description: "Use specified tools (e.g., Grok, web search, quantum detection, biomimicry database) for richer outputs with cross-domain mapping and temporal analysis."
