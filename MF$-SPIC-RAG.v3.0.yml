@@ -1,0 +1,103 @@
+# MF4:SPIC-RAG (Meta Framework For Framework: a Standard Process for Idea Creation)
+metadata:
+  title: "MF4:SPIC-RAG"
+  version: "3.0"
+  author: "Terrylan Manalansan"
+  last_updated: "2025-03-17"
+  tags:
+    - "meta-framework"
+    - "AI-driven"
+    - "self-optimizing"
+    - "collaboration"
+    - "ethics"
+  description: "A self-improving framework for AI-driven idea creation, now with automation, ethical guardrails, and cross-domain scalability."
+
+principles:
+  - name: "Clarity"
+    description: "Structured documents for AI/human interpretation with natural language support."
+  - name: "Recursion"
+    description: "Build frameworks within frameworks; auto-generate sub-frameworks for tasks >5 steps."
+  - name: "AI-Driven"
+    description: "Leverage dynamic AI tools (Grok, GPT-4, Claude) based on task context."
+  - name: "Iteration"
+    description: "Refine with real-time AI feedback loops and human annotations."
+  - name: "Universality"
+    description: "Domain-agnostic with role-based templates (e.g., software, policy)."
+  - name: "Flexibility"
+    description: "API-first design for interoperability with Jira, Figma, cloud platforms."
+  - name: "Collaboration"
+    description: "Shared symbolic memory and version-controlled workspaces."
+  - name: "Efficiency"
+    description: "Parallel AI agents for distributed processing and cloud scalability."
+  - name: "Consolidation"
+    description: "Merge outputs into deliverables (code, docs, APIs) with low-code exports."
+  - name: "Ethics & Security"
+    description: "Bias detection, compliance checks (GDPR, HIPAA), and ethical validation."
+
+process:
+  - step: "Define"
+    substeps:
+      - name: "Principles"
+        description: "Guiding rules with AI-suggested templates (e.g., ethics, scalability)."
+      - name: "Instructions"
+        description: "Dynamic tool selection (AI proposes Grok vs. GPT-4) and NLP inputs."
+      - name: "Parameters"
+        description: "Scope/goals with quantifiable KPIs (e.g., 'Novelty score ≥70%')."
+      - name: "Scalability"
+        description: "Cloud-native guidelines (AWS/GCP integration) and micro-frameworks."
+      - name: "Ethical Guardrails"  # NEW SUBSTEP
+        description: "Auto-inject bias detection rules and compliance standards."
+  - step: "AI Generate"
+    description: "AI agents draft in parallel, optimized via self-learning historical data."
+    example_prompt: "Generate X using Y with Grok (optimized for speed) + AWS SageMaker."
+    tools:
+      - "Grok"
+      - "Web Search"
+      - "Cloud AI (SageMaker, TPUs)"
+      - "Content Analysis"
+  - step: "Iterate"
+    description: "Real-time collaboration hub with AI/human annotations and version control."
+    collaboration_tools:
+      - "Shared Symbolic Memory"  # NEW
+      - "Auto-Documentation"  # NEW
+      - "Natural Language Feedback"
+    output_format: "YAML + PDF/Code Export"  # Enhanced
+  - step: "Validate"
+    description: "AI validates outputs against KPIs, ethics, and industry benchmarks (e.g., GDPR)."
+    substeps:
+      - name: "Performance Check"
+        description: "Benchmark speed, accuracy, and resource usage."
+      - name: "Ethical Audit"
+        description: "Detect bias, privacy risks, and compliance gaps."
+  - step: "Integrate"
+    description: "Export to tools (Jira, Figma) or generate APIs/executable code."
+    tools:
+      - "Low-Code Exports"
+      - "REST API Generator"
+
+recommendations:
+  - name: "Role-Based Templates"
+    description: "Use prebuilt templates (e.g., 'Healthcare Policy') for faster setup."
+  - name: "Automated Feedback"
+    description: "Enable AI validation at every step, not just final validation."
+  - name: "Self-Optimizing Framework"
+    description: "Let AI analyze past projects to improve future principles/tools."
+  - name: "Live Dashboards"
+    description: "Track KPIs (time per step, success rate) to identify bottlenecks."
+  - name: "Community Contributions"
+    description: "Crowdsource enhancements via a shared repository of components."
+  - name: "Exit"
+    description: "Stop when KPIs met and no critical issues after 2 iterations."
+  - name: "Cross-Framework Synergy"
+    description: "Hybridize with Agile/Design Thinking for complex workflows."
+
+future_enhancements:
+  - "AI-generated meta-frameworks for novel domains (e.g., quantum ethics)."
+  - "Prompt-to-Code NLP interface (e.g., 'Build a CNN' → SAIL code)."
+  - "Quantum computing extensions."
+  - "Decentralized collaboration via blockchain."
+
+dependencies:  # NEW SECTION
+  - "Python 3.10+"
+  - "Cloud AI Services (AWS, GCP)"
+  - "Ethics Compliance Databases"
